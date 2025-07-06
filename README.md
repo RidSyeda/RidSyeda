@@ -1,5 +1,4 @@
-<h1 align="center">Hey yall!</h1>
-<h1 align="center">It's Rida M. Syeda</h1>
+<h1 align="center">Hey yall🦋</h1>
 <h3 align="center">
 
 <h3  align="center" >About Me:</h3>
