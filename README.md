@@ -9,7 +9,7 @@
 
 <h3>Technical Skills:</h3>
 <ul>
-    <li>Proficient in Python, Java, C++, SQL, HTML, Google Docs</li>
+    <li>Proficient in Python, SQL, HTML, Google Docs</li>
     <li>Experienced with Unified Modelling Language (UML) for software design</li>
     <li>Skilled in requirements elicitation techniques</li>
     <li>Familiar with JavaScript, CSS, Microsoft Word, PowerPoint, and Draw.io</li>
